@@ -1,5 +1,8 @@
 # SQL e-commerce query
 
+![ecommerce_photo](https://user-images.githubusercontent.com/63714618/121355974-b8255680-c930-11eb-81f2-9cee11e1920d.jpg)
+
+
 We have a data base from an e-commerce which sells products for health and wellness. The data base was originally a csv file which was converted to db in a previous notebook. Since we are focusing on SQL queries, we don't show the previous code for EDA (Exploratory Data Analysis) and db conversion.
 
 This is a descriptive screenshot for the different columns:
