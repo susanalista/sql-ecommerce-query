@@ -1,4 +1,4 @@
-# SQL E-commerce Query
+# SQL e-commerce query
 
 We have a data base from an e-commerce which sells products for health and wellness. The data base was originally a csv file which was converted to db in a previous notebook. Since we are focusing on SQL queries, we don't show the previous code for EDA (Exploratory Data Analysis) and db conversion.
 
