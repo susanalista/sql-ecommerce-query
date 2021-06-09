@@ -10,3 +10,12 @@ This is a descriptive screenshot for the different columns:
 - code: the discount code applied to this order
 
 ![database](https://user-images.githubusercontent.com/63714618/121350860-70500080-c92b-11eb-8537-f85f8afe5723.png)
+
+We use SQL query to answer the following questions:
+
+- How many orders per day? 
+- How much sales per day?
+- What is the top selling product?
+- What percentage of orders are with discount codes?
+- What percentage of orders include the product with SKU PM591?
+- Which hour of day do people buy most products?
